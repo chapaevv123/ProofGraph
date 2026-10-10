@@ -27,7 +27,7 @@ https://github.com/chapaevv123/ProofGraph
 
 ## Demo video
 
-TODO — record and add the final public video URL.
+https://youtu.be/ynm7qUsF6GU
 
 ## Description
 

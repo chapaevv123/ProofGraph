@@ -4,6 +4,7 @@
 
 **Live demo:** https://proof-graph-blue.vercel.app  
 **GitHub:** https://github.com/chapaevv123/ProofGraph  
+**Demo video:** https://youtu.be/ynm7qUsF6GU
 **Primary track:** Open Source · **Secondary track:** Security
 
 **Problem:** Even genuine agent reputation becomes unsafe when old evidence remains trusted forever.

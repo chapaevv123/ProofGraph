@@ -2,6 +2,7 @@
 
 - Live demo: https://proof-graph-blue.vercel.app
 - Public repository: https://github.com/chapaevv123/ProofGraph
+- Demo video: https://youtu.be/ynm7qUsF6GU
 
 - Installed SDK: `@arkiv-network/sdk` 0.8.1.
 - Runtime: Node.js 22.23.1.
