@@ -2,7 +2,9 @@
 
 > Reputation that expires when the proof gets stale.
 
-**Live demo:** pending owner-approved Vercel deployment · **Repository:** pending owner-approved GitHub publication
+**Live demo:** https://proof-graph-blue.vercel.app  
+**GitHub:** https://github.com/chapaevv123/ProofGraph  
+**Primary track:** Open Source · **Secondary track:** Security
 
 **Problem:** Even genuine agent reputation becomes unsafe when old evidence remains trusted forever.
 

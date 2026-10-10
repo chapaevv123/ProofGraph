@@ -1,6 +1,8 @@
 # ProofGraph demo — 2:55 target
 
-The path uses existing real Tiramisu entities. It requires no write, wallet popup, faucet, or private key. If the public RPC is slow, the app clearly shows its receipt-backed real-entity snapshot.
+Demo surface: https://proof-graph-blue.vercel.app
+
+The path uses existing real Tiramisu entities. It requires no write, wallet popup, faucet, private key, fresh deployment, or new entity creation. If the public RPC is slow, the app clearly shows its receipt-backed real-entity snapshot.
 
 ## 0:00–0:15 — Problem
 

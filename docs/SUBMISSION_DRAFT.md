@@ -1,8 +1,33 @@
 # ProofGraph — submission draft
 
-## Project name and tagline
+## Project name
 
-ProofGraph — Reputation that expires when the proof gets stale.
+ProofGraph
+
+## Tagline
+
+Reputation that expires when the proof gets stale.
+
+## Live demo
+
+https://proof-graph-blue.vercel.app
+
+## Public repository
+
+https://github.com/chapaevv123/ProofGraph
+
+## Tracks
+
+- Primary: Open Source
+- Secondary: Security
+
+## Creator wallet
+
+0x765fb7e6a0BdDDc29f57eeCE34AEda0Fb318805d
+
+## Demo video
+
+TODO — record and add the final public video URL.
 
 ## Description
 
@@ -41,15 +66,11 @@ Secrets, private work, proprietary source, personal data, confidential vulnerabi
 
 Six real work proofs, one real challenge, five capabilities, and a real successor chain. Canonical entity: 0x914cb2927aea776144db3b55731080b57859ee7419ead65491b6cf373bd90989.
 
-TypeScript, React, Vite, Arkiv SDK 0.8.1, viem, Zod, and Vitest. Creator wallet: 0x765fb7e6a0BdDDc29f57eeCE34AEda0Fb318805d.
+TypeScript, React, Vite, Arkiv SDK 0.8.1, viem, Zod, and Vitest.
 
 ## Friction report
 
-Reproduced findings cover stale repository onboarding examples, a wallet-client/read-action documentation mismatch, and display-ready expiry conversion. Each includes reproduction, workaround, impact, and suggested improvement.
-
-## Publication fields
-
-Public repository, live deployment, and video URL are pending owner approval. Do not replace them with fabricated links.
+Three reproduced findings cover stale repository onboarding examples, a wallet-client/read-action documentation mismatch, and display-ready expiry conversion. Each includes reproduction, workaround, impact, and suggested improvement.
 
 ## Build disclosure
 

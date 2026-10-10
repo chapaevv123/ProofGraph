@@ -2,6 +2,9 @@
 
 Verified live on 2026-10-10. **DATA CONTENT = SYNTHETIC. ARKIV ENTITY = REAL.**
 
+Public demo: https://proof-graph-blue.vercel.app  
+Public source: https://github.com/chapaevv123/ProofGraph
+
 ## Public read
 
 Command: `npm run arkiv:read-smoke`
